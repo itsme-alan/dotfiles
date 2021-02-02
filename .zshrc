@@ -55,6 +55,7 @@ plugins=(git dotnet nvm gh)
 
 source $ZSH/oh-my-zsh.sh
 source ~/dotfiles/loadconfig.sh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
