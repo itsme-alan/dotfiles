@@ -1,3 +1,9 @@
 # My Linux dotfiles
 
-Pretty much work-in-progress as of now
+### Installation
+
+```
+git clone https://github.com/itsme-alan/dotfiles.git ~/dotfiles
+cd ~/dotfiles
+./install.sh
+```
