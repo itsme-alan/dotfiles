@@ -2,3 +2,4 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 rm $HOME/.zshrc
 touch $HOME/dotfiles/setpath.sh
 ln -s $HOME/dotfiles/.zshrc $HOME/.zshrc
+ln -s $HOME/dotfiles/init.vim $HOME/nvim/init.vim
